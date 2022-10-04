@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋, Im not General Kenobi, but welcome to my Github profile
+#### My name is Tiago, but my nickname is jinkijack
 <!--
 **jinkijack/jinkijack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
