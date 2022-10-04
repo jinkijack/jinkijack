@@ -1,7 +1,6 @@
 ## Hello there 👋, Im not General Kenobi, but welcome to my Github profile!
 
 > ### My name is Tiago and my nickname is jinkijack.
-
 > - #### Here some of the technologies I'm currently working with:
 
 <div>
