@@ -1,7 +1,10 @@
 ## Hello there 👋, I'm not General Kenobi, but welcome to my Github profile!
-
+<!--
 <img src="https://media.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif" width="500" height="300" />
-
+-->
+<p align="center">
+  <img src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
+</p>
 ### My name is Tiago and my nickname is jinkijack.
 - #### Here some of the technologies I'm currently working with:
 
