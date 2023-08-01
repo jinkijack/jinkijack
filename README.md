@@ -15,7 +15,7 @@
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=jinkijack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/jinkijack/jinkijack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jinkijack/jinkijack/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **jinkijack/jinkijack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
