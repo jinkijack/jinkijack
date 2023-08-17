@@ -10,7 +10,6 @@
 - #### Here some of the technologies I'm currently working with:
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=jinkijack&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=jinkijack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
